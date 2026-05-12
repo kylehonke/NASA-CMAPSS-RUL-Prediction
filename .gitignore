@@ -1,0 +1,9 @@
+#ignore everything
+*
+
+#unignore files to be tracked
+!*.py
+!README.md
+!.gitignore
+!requirements.txt
+!Initial_Analysis.ipynb
