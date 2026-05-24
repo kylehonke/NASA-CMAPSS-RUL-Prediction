@@ -1,8 +1,8 @@
 #ignore everything
 *
-
+*.py
 #unignore files to be tracked
-!*.py
+
 !README.md
 !.gitignore
 !requirements.txt
